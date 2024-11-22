@@ -21,6 +21,11 @@ footer{
         padding: 20px 20px;
         background-color: black;
         align-items: center;
+        A:hover{
+          background-color: red;
+          padding: 20px 20px;
+          border-radius: 10px;
+      }
     }
     .Menu{
         display: flex;
@@ -44,6 +49,11 @@ footer{
         list-style: decimal;
         margin: auto;
         font-size: 40px;
+        A:hover{
+          background-color: rebeccapurple;
+          padding: 5px 5px;
+          border-radius: 10px;
+      }
         
       }
     
